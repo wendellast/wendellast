@@ -62,7 +62,7 @@
 <p align="center">
 <a href="https://discordapp.com/users/last#6130"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
 <a href="https://www.instagram.com/wendellastwa/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
-<a href=""><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Instagram"/></a>
+<a href="https://wendellast.github.io/Config/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
 <a href="https://t.me/Lasstll"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Portifolio-red?style=for-the-badge" target="_blank" alt="Portifolio"></a><a href="https://medium.com/@wendelalves2a" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
+<a href="https://wendellast.github.io/Config/" target="_blank"><img src="https://img.shields.io/badge/Portifolio-red?style=for-the-badge" target="_blank" alt="Portifolio"></a><a href="https://medium.com/@wendelalves2a" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
 
 </div>
 
