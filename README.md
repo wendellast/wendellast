@@ -70,8 +70,7 @@
 
 <div align="center">
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Portifolio-red?style=for-the-badge" target="_blank" alt="Portifolio"></a><a href="https://medium.com/@wendelalves2a" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail
-" target="__blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Portifolio-red?style=for-the-badge" target="_blank" alt="Portifolio"></a><a href="https://medium.com/@wendelalves2a" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
 
 </div>
 
