@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About</title>
+    <style>
+      #moviment {
+        text-align: center;
+        width: 400px;
+        height: 200px;
+        background-color: #ffc0cb; /* Cor rosa claro */
+        position: absolute;
+        border-radius: 50%; /* Formato circular */
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Sombra suave */
+        animation: moveAnimation 2s infinite alternate ease-in-out; /* Animação de movimento */
+      }
+
+      #moviment h1 {
+        padding-top: 40px;
+        font-size: 24px;
+        color: #ffffff; /* Cor branca */
+        text-align: center;
+        margin-top: 20px;
+      }
+
+      #moviment h2 {
+        font-size: 18px;
+        color: #ffffff; /* Cor branca */
+        text-align: center;
+        margin-top: 10px;
+      }
+
+      @keyframes moveAnimation {
+        from {
+          transform: translate(0, 0);
+        }
+        to {
+          transform: translate(50px, 50px);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="moviment">
+      <h1>In Production</h1>
+      <h2>Soon be ready</h2>
+    </div>
+
+    <script>
+      var div = document.getElementById("moviment");
+      var velocidadeX = 2; // Velocidade do movimento horizontal
+      var velocidadeY = 2; // Velocidade do movimento vertical
+
+      function moverDiv() {
+        var posicaoX = parseInt(div.style.left) || 0;
+        var posicaoY = parseInt(div.style.top) || 0;
+
+        posicaoX += velocidadeX;
+        posicaoY += velocidadeY;
+
+        var larguraJanela = window.innerWidth;
+        var alturaJanela = window.innerHeight;
+
+        if (posicaoX + div.offsetWidth >= larguraJanela || posicaoX <= 0) {
+          velocidadeX *= -1;
+        }
+
+        if (posicaoY + div.offsetHeight >= alturaJanela || posicaoY <= 0) {
+          velocidadeY *= -1;
+        }
+
+        div.style.left = posicaoX + "px";
+        div.style.top = posicaoY + "px";
+
+        requestAnimationFrame(moverDiv);
+      }
+
+      moverDiv();
+    </script>
+  </body>
+</html>
