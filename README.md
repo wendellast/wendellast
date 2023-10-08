@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/wendellast">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
@@ -97,5 +97,7 @@ I'm a backend software developer with extensive experience in the field. I love 
   <a href="https://wendellast.github.io/Config/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
   <a href="https://medium.com/@wendelalves2a" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
 </div>
+
+<br>
 
 [![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=0d1117&color=9d4edd&line=9d4edd&point=ff9494&area=true&hide_border=true)](https://github.com/wendellast)
