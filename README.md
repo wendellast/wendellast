@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/wendellast">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
@@ -24,7 +24,7 @@ I'm a backend software developer with extensive experience in the field. I love 
 
 <div align="center">
   <a href="https://github.com/wendellast"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
 <br><br>
@@ -100,4 +100,6 @@ I'm a backend software developer with extensive experience in the field. I love 
 
 <br>
 
-[![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=0d1117&color=9d4edd&line=9d4edd&point=ff9494&area=true&hide_border=true)](https://github.com/wendellast)
+[![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=0d1117&color=834f9d&line=834f9d&point=ff9494&area=834f9d&hide_border=true)](https://github.com/wendellast)
+
+
