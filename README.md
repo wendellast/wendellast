@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">
+<h1 align="center" style="color: #ba6771;">
 【𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱】
 </h1>
 
@@ -11,16 +11,18 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9d4edd&size=55&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wendel+Alves;I'm+17+years+old;I'm+from+Brazil;I'm+a+Backend+Developer;Welcome!+:%29&font=Monaco)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=#b38c7f&size=55&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Wendel+Alves;I'm+17+years+old;I'm+from+Brazil;I'm+a+Backend+Developer;Welcome!+:%29&font=Monaco" style="color: #b38c7f;" />
+</p>
 
 <!-- Background -->
-![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
+<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 
-## Overview 👉
+<h2 align="center" style="color: #ba6771;">Overview 👉</h2>
 
-I'm a backend software developer with extensive experience in the field. I love to create and innovate in all aspects of a project.
+<p style="color: #b38c7f;">I'm a backend software developer with extensive experience in the field. I love to create and innovate in all aspects of a project.</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
 
 <div align="center">
   <a href="https://github.com/wendellast"></a>
@@ -29,7 +31,7 @@ I'm a backend software developer with extensive experience in the field. I love 
 
 <br><br>
 
-## Skills 🚀
+<h2 align="center" style="color: #ba6771;">Skills 🚀</h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com/">
@@ -82,8 +84,7 @@ I'm a backend software developer with extensive experience in the field. I love 
   </a>
 </p>
 
-
-## Connect with me 👇
+<h2 align="center" style="color: #ba6771;">Connect with me 👇</h2>
 
 <p align="center">
   <a href="https://discordapp.com/users/last#6130"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
@@ -91,7 +92,7 @@ I'm a backend software developer with extensive experience in the field. I love 
   <a href="https://t.me/Lasstll"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram"/></a>
 </p>
 
-<h4 align="center">Thanks for Visiting! 😇</h4>
+<h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
 
 <div align="center">
   <a href="https://wendellast.github.io/Config/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
@@ -100,6 +101,4 @@ I'm a backend software developer with extensive experience in the field. I love 
 
 <br>
 
-[![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=0d1117&color=834f9d&line=834f9d&point=ff9494&area=834f9d&hide_border=true)](https://github.com/wendellast)
-
-
+[![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/wendellast)
