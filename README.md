@@ -18,11 +18,10 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
 
-<div align="center">
+<div>
   <a href="https://github.com/wendellast">
     <img height="140rem" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
-
   <a href="https://github.com/wendellast"></a>
   <img height="140rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=date_night"/>
 </div>
