@@ -3,18 +3,19 @@
 【𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱】
 </h1>
 
+<!-- Background -->
+<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Wendel+Alves%3BI%27m+18+years+old%3BI%27m+from+Brazil%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
+
+
 <div align="center">
   <a href="https://github.com/wendellast">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+    <img height="120rem" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=55&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Wendel+Alves%3BI%27m+17+years+old%3BI%27m+from+Brazil%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
-
-
-<!-- Background -->
-<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 
 <h2  style="color: #ba6771;">Overview 👉</h2>
 
@@ -24,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/wendellast"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=date_night"/>
+  <img height="120rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=date_night"/>
 </div>
 
 <br><br>
@@ -37,9 +38,6 @@
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   </a>
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
@@ -93,7 +91,7 @@
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
 
 <div align="center">
-  <a href="https://wendellast.github.io/Config/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
+  <a  href="https://wendellast.github.io/Config/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
   <a href="https://medium.com/@wendelalves2a" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
 </div>
 
