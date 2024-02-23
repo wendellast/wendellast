@@ -80,11 +80,11 @@
 <h2 style="color: #ba6771;">Connect with me 👇</h2>
 
 <p align="center">
-  <a href="https://discordapp.com/users/wendellast"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord"/></a>
-  <a href="https://www.instagram.com/wendellastwa/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram"/></a>
-  <a href="mailto:wendelalvesj@hotmail.com"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/email.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/wendel-alves-b0b5332a0/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://t.me/wendellast"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram"/></a>
+  <a href="https://discordapp.com/users/wendellast"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord" width="50" height="50"/></a>
+  <a href="https://www.instagram.com/wendellastwa/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram" width="50" height="50"/></a>
+  <a href="mailto:wendelalvesj@hotmail.com"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/email.png" alt="email" width="50" height="50"/></a>
+  <a href="https://www.linkedin.com/in/wendel-alves-b0b5332a0/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin" width="50" height="50"/></a>
+  <a href="https://t.me/wendellast"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram" width="50" height="50"/></a>
 </p>
 
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
