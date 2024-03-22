@@ -91,7 +91,6 @@
 <h4 align="center" style="color: #ba6771;">Thanks for Visiting! 😇</h4>
 
 <div align="center">
-  <a href="https://www.tabnews.com.br/wendellast" target="__blank"><img src="https://img.shields.io/badge/tabnews-FFFFFF?style=for-the-badge"></a>
   <a  href="https://portfolio-nine-lovat-40.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge" target="_blank" alt="Portfolio"></a>
   <a href="https://wendellast2a.medium.com/" target="__blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
 </div>
