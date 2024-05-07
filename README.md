@@ -2,9 +2,11 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <div align="center" >
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Wendel+Alves;I+am+a+Backend+developer;Feel+free+to+get+in+touch+for+anything)](https://git.io/typing-svg)
-<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+
 </div>
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <div align="center" >
   <a href="https://github.com/wendellast">
     <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
