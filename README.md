@@ -1,31 +1,29 @@
-<!-- Title -->
-<h1 align="center" style="color: #ba6771;">
-【𝗛𝗲𝗹𝗹𝗼 𝗪𝗼𝗿𝗹𝗱】
-</h1>
-
-<!-- Background -->
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
-<br>
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Wendel%3BI%27m+a+Backend+Developer%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
-
-
-
-<h2  style="color: #ba6771;">Overview 👉</h2>
-
-<p style="color: #b38c7f;">I'm a backend software developer with extensive experience in the field. I love to create and innovate in all aspects of a project.</p>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">"I love connecting with different people! So, if you want to say hi, I'll be happy to get to know you better!"</b></em>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Wendel+Alves;I+am+a+Backend+developer;Feel+free+to+get+in+touch+for+anything)](https://git.io/typing-svg)
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 
 <div align="center" >
   <a href="https://github.com/wendellast">
-    <img height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/wendellast"></a>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=date_night"/>
+  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
 </div>
 
-<br><br>
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
+
+<h2  style="color: #ba6771;">Overview 👉</h2>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Wendel Alves and I am a Backend Developer. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My goal is to continue learning technologies and developing new applications.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Python, Django, Linux, Docker, and Styled-components.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or anything? Send a message! I will be happy to meet you
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [portfolio](https://portfolio-nine-lovat-40.vercel.app/)!
+
 
 <h2 style="color: #ba6771;">Skills 🚀</h2>
 
@@ -75,16 +73,26 @@
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
   </a>
-</p>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SOLID">
+    <img src="https://img.shields.io/badge/SOLID-333333?style=for-the-badge&logoColor=white" alt="SOLID">
+  </a>
+  <a href="https://www.scrum.org/">
+    <img src="https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=SCRUM&logoColor=white" alt="SCRUM">
+  </a>
 
+</p>
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <h2 style="color: #ba6771;">Connect with me 👇</h2>
 
 <p align="center">
-  <a href="https://discordapp.com/users/wendellast"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/discord.png" alt="Discord" width="60" height="60"/></a>
-  <a href="https://www.instagram.com/wendellastwa/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" alt="Instagram" width="60" height="60"/></a>
-  <a href="mailto:wendelalvesj@hotmail.com"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/email.png" alt="email" width="60" height="60"/></a>
-  <a href="https://www.linkedin.com/in/wendel-alves-b0b5332a0/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/linkedin.png" alt="Linkedin" width="60" height="60"/></a>
-  <a href="https://t.me/wendellast"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/telegram.png" alt="Telegram" width="60" height="60"/></a>
+  <a href="https://discordapp.com/users/wendellast"><img src="static/assets/img/discord.png" alt="Discord" width="50" height="50"/></a>
+  <a href="https://www.instagram.com/wendellastwa/"><img src="static/assets/img/instagram.png" alt="Instagram" width="50" height="50"/></a>
+  <a href="mailto:wendelalvesj@hotmail.com"><img src="static/assets/img/email.png" alt="email" width="50" height="50"/></a>
+  <a href="https://www.linkedin.com/in/wendel-alves-b0b5332a0/"><img src="static/assets/img/linkedin.png" alt="Linkedin" width="50" height="50"/></a>
+  <a href="https://t.me/wendellast"><img src="static/assets/img/telegram.png" alt="Telegram" width="50" height="50"/></a>
 </p>
 
 
@@ -97,4 +105,6 @@
 
 <br>
 
-[![Wendel Alves's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&bg_color=170f0c&color=ba6771&line=b38c7f&point=c16a75&area=true&hide_border=true)](https://github.com/wendellast)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&theme=material-palenight	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
