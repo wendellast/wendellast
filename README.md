@@ -16,8 +16,11 @@
 </div>
 
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
-
 <h2  style="color: #ba6771;">Overview 👉</h2>
+<div align="center" >
+
+[![wakatime](https://wakatime.com/badge/user/018edf37-5d6b-4875-a175-4abefadf37c5.svg)](https://wakatime.com/@018edf37-5d6b-4875-a175-4abefadf37c5)
+</div>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Wendel Alves and I am a Backend Developer. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My goal is to continue learning technologies and developing new applications.<br />
