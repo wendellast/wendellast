@@ -4,19 +4,21 @@
 <div align="center" >
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Wendel+Alves;I+am+a+Backend+developer;Feel+free+to+get+in+touch+for+anything)](https://git.io/typing-svg)
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="40" height="40" />
 </div>
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <div align="center" >
   <a href="https://github.com/wendellast">
-    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_radius=15"/>
   </a>
   <a href="https://github.com/wendellast"></a>
-  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
+  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=15"/>
 </div>
 
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
-<h2  style="color: #ba6771;">Overview 👉</h2>
+
+<h2  style="color: #ba6771;">Overview 👉 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="40" height="40" /> </h2>
+
 <div align="center" >
 
 [![wakatime](https://wakatime.com/badge/user/018edf37-5d6b-4875-a175-4abefadf37c5.svg)](https://wakatime.com/@018edf37-5d6b-4875-a175-4abefadf37c5)
@@ -30,7 +32,9 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [portfolio](https://portfolio-nine-lovat-40.vercel.app/)!
 
 
-<h2 style="color: #ba6771;">Skills 🚀</h2>
+<h2 style="color: #ba6771;">Skills 🚀 <img
+src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
+alt="Exploding Head" width="40" height="40" />   </h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com/">
@@ -90,7 +94,7 @@
 
 </p>
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
-<h2 style="color: #ba6771;">Connect with me 👇</h2>
+<h2 style="color: #ba6771;">Connect with me 👇 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="40" height="40" /></h2>
 
 <p align="center">
   <a href="https://discordapp.com/users/wendellast"><img src="static/assets/img/discord.png" alt="Discord" width="50" height="50"/></a>
@@ -111,5 +115,5 @@
 <br>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&theme=material-palenight	)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&theme=material-palenight&radius=16	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
