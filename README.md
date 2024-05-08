@@ -9,10 +9,10 @@
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
 <div align="center" >
   <a href="https://github.com/wendellast">
-    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+    <img   height="100%" src="https://github-readme-stats.vercel.app/api?username=wendellast&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true&border_radius=15%"/>
   </a>
   <a href="https://github.com/wendellast"></a>
-  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=15"/>
+  <img   height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellast&layout=compact&langs_count=7&theme=catppuccin_mocha&border_radius=15%"/>
 </div>
 
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
