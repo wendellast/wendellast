@@ -46,6 +46,10 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   </a>
+  <a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</a>
+
   <a href="https://docs.python.org/3/library/tkinter.html">
     <img src="https://img.shields.io/badge/Tkinter-FFD800?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
   </a>
@@ -58,6 +62,10 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://golang.org/">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</a>
+
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </a>
@@ -76,6 +84,10 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
   </a>
+  <a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
   </a>
