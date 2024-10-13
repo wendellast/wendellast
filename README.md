@@ -37,9 +37,6 @@ src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
 alt="Exploding Head" width="40" height="40" />   </h2>
 
 <p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python3">
   </a>
@@ -48,21 +45,8 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   </a>
   <a href="https://isocpp.org/">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-</a>
-
-  <a href="https://docs.python.org/3/library/tkinter.html">
-    <img src="https://img.shields.io/badge/Tkinter-FFD800?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter">
   </a>
-  <a href="https://www.qt.io/">
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="QT">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://golang.org/">
+    <a href="https://golang.org/">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
 </a>
 
@@ -81,16 +65,9 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <a href="https://www.arduino.cc/">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
-  </a>
   <a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
-  </a>
   <a href="https://getbootstrap.com/">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
   </a>
@@ -100,9 +77,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <a href="https://en.wikipedia.org/wiki/SOLID">
     <img src="https://img.shields.io/badge/SOLID-333333?style=for-the-badge&logoColor=white" alt="SOLID">
   </a>
-  <a href="https://www.scrum.org/">
-    <img src="https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=SCRUM&logoColor=white" alt="SCRUM">
-  </a>
+
 
 </p>
 <img src="static/assets/img/linebackground.png" width="100%" height="8px"/>
