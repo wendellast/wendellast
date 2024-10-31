@@ -98,7 +98,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <a href="https://wendellast.github.io/" target="_blank">
   <img height="30" width="100"  src="https://img.shields.io/badge/MYBlog-FF5733?style=for-the-badge&logo=globe&logoColor=white" alt="MYBlog Badge">
   </a>
- <a href="https://wendellast-portfolio.vercel.app/" target="_blank">
+ <a href="https://wendellast.up.railway.app/" target="_blank">
   <img width="115" src="https://img.shields.io/badge/Portfolio-a395e9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://wendellast2a.medium.com/" target="__blank"><img height="30" width="100" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
