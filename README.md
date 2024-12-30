@@ -29,7 +29,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Python, Django, Linux, Docker, and Styled-components.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or anything? Send a message! I will be happy to meet you
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [Portfolio](https://wendellast.up.railway.app/)!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [Portfolio](https://hublast.com/)!
 
 
 <h2 style="color: #ba6771;">Skills 🚀 <img
@@ -98,7 +98,7 @@ alt="Exploding Head" width="40" height="40" />   </h2>
   <a href="https://wendellast.github.io/" target="_blank">
   <img height="30" width="100"  src="https://img.shields.io/badge/MYBlog-FF5733?style=for-the-badge&logo=globe&logoColor=white" alt="MYBlog Badge">
   </a>
- <a href="https://wendellast.up.railway.app/" target="_blank">
+ <a href="https://hublast.com" target="_blank">
   <img width="115" src="https://img.shields.io/badge/Portfolio-a395e9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://wendellast2a.medium.com/" target="__blank"><img height="30" width="100" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
