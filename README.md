@@ -26,16 +26,44 @@
 
 </div>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Wendel Alves and I am a Backend Developer. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My goal is to continue learning technologies and developing new applications.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is Golang, Typescript, Javascript, Python, Django, Flask, Gin, Linux, Docker.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or anything? Send a message! I will be happy to meet you
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [Portfolio](https://wendellast.dev/)!
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" width="25" />
+  Hello! My name is Wendel Alves and I am a Backend Developer.
+</p>
 
-<h2 style="color: #ba6771;">Skills 🚀 <img
-src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
-alt="Exploding Head" width="40" height="40" />   </h2>
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="25" />
+  My goal is to continue learning technologies and developing new applications.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" />
+  My main stack is Golang, Typescript, Javascript, Python, Django, Flask, Gin, Linux, Docker.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" width="25" />
+  I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" width="25" />
+  Want to talk about technology, games or anything? Send a message! I will be happy to meet you.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" width="25" />
+  Check out my <a href="https://wendellast.dev/">Portfolio</a>!
+</p>
+
+<h2 style="color: #ba6771;">
+  Skills 
+  <img 
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png"
+    width="40"
+    align="center"
+  />
+</h2>
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -95,14 +123,17 @@ alt="Exploding Head" width="40" height="40" />   </h2>
 
 <div align="center">
   <a href="https://wendellast.github.io/" target="_blank">
-  <img height="30" width="100"  src="https://img.shields.io/badge/MYBlog-FF5733?style=for-the-badge&logo=globe&logoColor=white" alt="MYBlog Badge">
+    <img height="30" src="https://img.shields.io/badge/MYBlog-FF5733?style=for-the-badge&logo=globe&logoColor=white" alt="MYBlog Badge">
   </a>
- <a href="https://wendellast.dev" target="_blank">
-  <img width="115" src="https://img.shields.io/badge/Portfolio-a395e9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
-</a>
-<a href="https://wendellast2a.medium.com/" target="__blank"><img height="30" width="100" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&&logoColor=white)](https://medium.com/redescoail" target="__blank"></a>
-</div>
+  
+  <a href="https://wendellast.dev" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Portfolio-a395e9?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
+  </a>
 
+  <a href="https://wendellast2a.medium.com/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+</div>
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wendellast&theme=material-palenight&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
